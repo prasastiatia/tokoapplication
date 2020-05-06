@@ -1,0 +1,26 @@
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\bin\Release\tokoapplication.exe
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\bin\Release\tokoapplication.pdb
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\bin\Release\tokoapplication.xml
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Release\tokoapplication.data_transaksi.resources
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Release\tokoapplication.Form_transaksi.resources
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Release\tokoapplication.main_menu.resources
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Release\tokoapplication.master_barang.resources
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Release\tokoapplication.master_pelanggan.resources
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Release\tokoapplication.Resources.resources
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Release\tokoapplication.vbproj.GenerateResource.Cache
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Release\tokoapplication.exe
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Release\tokoapplication.xml
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Release\tokoapplication.pdb
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\tokoapplication\tokoapplication\obj\x86\Release\tokoapplication.exe
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\tokoapplication\tokoapplication\obj\x86\Release\tokoapplication.xml
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\tokoapplication\tokoapplication\obj\x86\Release\tokoapplication.pdb
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\tokoapplication\tokoapplication\bin\Release\tokoapplication.exe
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\tokoapplication\tokoapplication\bin\Release\tokoapplication.pdb
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\tokoapplication\tokoapplication\bin\Release\tokoapplication.xml
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\tokoapplication\tokoapplication\obj\x86\Release\tokoapplication.data_transaksi.resources
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\tokoapplication\tokoapplication\obj\x86\Release\tokoapplication.Form_transaksi.resources
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\tokoapplication\tokoapplication\obj\x86\Release\tokoapplication.main_menu.resources
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\tokoapplication\tokoapplication\obj\x86\Release\tokoapplication.master_barang.resources
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\tokoapplication\tokoapplication\obj\x86\Release\tokoapplication.master_pelanggan.resources
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\tokoapplication\tokoapplication\obj\x86\Release\tokoapplication.Resources.resources
+C:\Users\Hp\OneDrive\Documents\Visual Studio 2010\Projects\tokoapplication\tokoapplication\obj\x86\Release\tokoapplication.vbproj.GenerateResource.Cache

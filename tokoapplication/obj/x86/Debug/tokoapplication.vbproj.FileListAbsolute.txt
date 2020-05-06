@@ -1,0 +1,13 @@
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\bin\Debug\tokoapplication.exe
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\bin\Debug\tokoapplication.pdb
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\bin\Debug\tokoapplication.xml
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Debug\tokoapplication.main_menu.resources
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Debug\tokoapplication.master_barang.resources
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Debug\tokoapplication.Resources.resources
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Debug\tokoapplication.vbproj.GenerateResource.Cache
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Debug\tokoapplication.exe
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Debug\tokoapplication.xml
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Debug\tokoapplication.pdb
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Debug\tokoapplication.master_pelanggan.resources
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Debug\tokoapplication.Form_transaksi.resources
+C:\Users\Hp\AppData\Local\Temporary Projects\tokoapplication\obj\x86\Debug\tokoapplication.data_transaksi.resources
